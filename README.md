@@ -10,14 +10,18 @@ Steps:
 4) Created multiple dashboards that gives insights in Finance, Sales, Marketing, and Supply chain processes of the company.
 
 
+#Home Page:
+![Home Page](https://user-images.githubusercontent.com/49318251/191730771-95595eb9-d165-4edf-b670-eef433ddf7c0.png)
+
 # Finance View:
-![Finance_view](https://user-images.githubusercontent.com/49318251/190843265-55b05e53-fda2-4ae2-82c7-88c128ef834c.png)
+![Finance](https://user-images.githubusercontent.com/49318251/191730836-aec0e736-a36f-4df7-970b-d66805487a29.png)
 
 # Sales View:
-![Sales_view](https://user-images.githubusercontent.com/49318251/190843273-4cba040c-51dc-4f4f-bfe5-ea6feaeb4f3b.png)
+![Sales](https://user-images.githubusercontent.com/49318251/191730870-bd91eddf-5e9d-4e00-a251-c0bc41573d23.png)
 
 # Marketing View:
-![Marketing_View](https://user-images.githubusercontent.com/49318251/190843280-f29a723c-67bf-4eeb-a624-fe7dd3e62a4b.png)
+![Marketing](https://user-images.githubusercontent.com/49318251/191730907-fb83393b-8641-4647-8b90-7fde39647b33.png)
 
 # Supply Chain:
-![Supply_chain_view](https://user-images.githubusercontent.com/49318251/190843289-183870d0-dc30-40fa-979e-722c3fbb16e5.png)
+![Supply_Chain_View (2)](https://user-images.githubusercontent.com/49318251/191730946-2f3f58c5-763f-4d51-aac8-51565052b9f1.png)
+
