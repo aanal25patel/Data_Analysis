@@ -1,6 +1,7 @@
 # Data_Analysis
 Created a Power BI interactive dashboard for the **Sales**, **Marketing**, **Finance** and **Supply Chain** of AtliQ Hardware.
 
+For accessing the dashboard: [Power BI](https://app.powerbi.com/links/6FFoA3-mGh?ctid=a1acde04-4e6d-49d2-8679-5b83bd9209eb&pbi_source=linkShare)
 
 Steps:
 
