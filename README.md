@@ -10,7 +10,7 @@ Steps:
 4) Created multiple dashboards that gives insights in Finance, Sales, Marketing, and Supply chain processes of the company.
 
 
-#Home Page:
+# Home Page:
 ![Home Page](https://user-images.githubusercontent.com/49318251/191730771-95595eb9-d165-4edf-b670-eef433ddf7c0.png)
 
 # Finance View:
